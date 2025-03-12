@@ -47,7 +47,7 @@ button {
     outline: none;
     border: none;
     background-color: #1d1d1d;
-    color: aliceblue;
+    color: #0ea7bb;
     padding: 13px 30px;
     cursor: pointer;
     text-transform: uppercase;
@@ -78,7 +78,7 @@ button {
   .navbar i:hover,
   .navbar-light .navbar-nav .nav-link.active,
   .navbar i.active {
-    color: coral;
+    color: #0ea7bb;
   }
   .navbar i {
     font-size: 1.2rem;
@@ -101,7 +101,7 @@ button {
   @media only screen and (max-width: 991px) {
     body > nav > div > button:hover,
     body > nav > div > button:focus {
-      background-color: coral;
+      background-color: #0ea7bb;
     }
     body > nav > div > button:hover,
     #bar body > nav > div > button:focus #bar {
@@ -123,3 +123,5 @@ button {
     border: none;
     outline: none;
   }
+
+  
